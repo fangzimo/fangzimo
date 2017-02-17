@@ -2,3 +2,4 @@ cong qian you zuo shan
 shan li you zuo miao
 miao li you ge lao he shang
 zai gei xiao he shang jiang gu shi
+Creating a new branch is quick AND simple.
